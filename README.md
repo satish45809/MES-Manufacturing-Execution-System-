@@ -34,7 +34,7 @@ A lightweight, operator-friendly Manufacturing Execution System (MES) for shop f
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React, CSS
+- **Frontend:** React,Javascript,CSS
 - **Deployment:** Vercel
 
 ---
