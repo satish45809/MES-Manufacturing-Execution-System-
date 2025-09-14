@@ -1,23 +1,23 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { useState } from "react";
+import OperatorPortal from "./OperatorPortal";
+import SupervisorPortal from "./SupervisorPortal";
+import "./index.css";
 
 function App() {
+  const [view, setView] = useState("operator");
+  const [entries, setEntries] = useState([]); // Shared entries
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+    <div>
+      <header className="main-header">
+        <button onClick={() => setView("operator")}>Operator Portal</button>
+        <button onClick={() => setView("supervisor")}>Supervisor Portal</button>
       </header>
+      {view === "operator" ? (
+        <OperatorPortal entries={entries} setEntries={setEntries} />
+      ) : (
+        <SupervisorPortal entries={entries} setEntries={setEntries} />
+      )}
     </div>
   );
 }
