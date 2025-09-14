@@ -30,13 +30,7 @@ A lightweight, operator-friendly Manufacturing Execution System (MES) for shop f
 
 ---
 
-## 🖥️ Screenshots
 
-| Operator Portal | Supervisor Portal |
-|-----------------|------------------|
-| ![Operator Portal](<img width="1551" height="858" alt="Image" src="https://github.com/user-attachments/assets/4d5843b2-ca9d-48a7-9870-e8321da1167a" />) | ![Supervisor Portal](<img width="1527" height="502" alt="Image" src="https://github.com/user-attachments/assets/70446e36-2a61-4345-880b-06e40127a7b8" />) |
-
----
 
 ## 🛠️ Tech Stack
 
