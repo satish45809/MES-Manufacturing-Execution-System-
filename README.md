@@ -34,7 +34,7 @@ A lightweight, operator-friendly Manufacturing Execution System (MES) for shop f
 
 | Operator Portal | Supervisor Portal |
 |-----------------|------------------|
-| ![Operator Portal](https://manufacturingexecutionsystem.vercel.app/screenshots/operator.png) | ![Supervisor Portal](https://manufacturingexecutionsystem.vercel.app/screenshots/supervisor.png) |
+| ![Operator Portal](<img width="1551" height="858" alt="Image" src="https://github.com/user-attachments/assets/4d5843b2-ca9d-48a7-9870-e8321da1167a" />) | ![Supervisor Portal](https://manufacturingexecutionsystem.vercel.app/screenshots/supervisor.png) |
 
 ---
 
