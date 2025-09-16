@@ -65,12 +65,12 @@ A lightweight, operator-friendly Manufacturing Execution System (MES) for shop f
 ## 📝 Usage
 
 - **Operator Portal:**  
-Log in as an operator (any username and password).
-Select a task, start/stop work, and submit entries for supervisor approval
+- Log in as an operator (any username and password).
+- Select a task, start/stop work, and submit entries for supervisor approval
 
 - **Supervisor Portal:**  
-  Log in as a supervisor, review all operator entries, filter by operator/task/status, and approve or reject entries.
-
+- Log in as a supervisor (any username and password).
+- Review all operator entries, filter by operator/task/status, and approve or reject entries.
 ---
 
 ## 📄 License
