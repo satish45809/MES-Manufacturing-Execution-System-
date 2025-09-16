@@ -80,7 +80,7 @@ This project is licensed under the MIT License.
 
 ## 🙌 Credits
 
-Developed by [Satish](https://github.com/satish45809).
+Developed by Nimushakavi Satheesh
 
 ---
 
