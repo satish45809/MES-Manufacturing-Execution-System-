@@ -73,10 +73,6 @@ A lightweight, operator-friendly Manufacturing Execution System (MES) for shop f
     - Review all operator entries, filter by operator/task/status, and approve or reject entries.
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
 ---
 
 ## 🙌 Credits
